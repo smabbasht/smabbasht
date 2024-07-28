@@ -1,4 +1,4 @@
-### Hello I'm @smabbasht (Syed M. <ins>Abbas</ins> Haider T.) 👋
+### Hello I'm [@smabbasht](https://github.com/smabbasht) (Syed M. <ins>Abbas</ins> Haider T.) 👋
 I am a Data Engineer working in a FinTech using Rust 🦀 and Go 🐹 at work for building fast and secure data pipelines and distributed system software for realtime applications and engines. <br>I use JAX/Python 🐍 for my machine learning research projects along with Pyro/Numpyro.
 
 I am a Computer Science graduate from Habib University 🎓, interested in data science 📊, operating systems 🖥️, low-level programming 🔧, and realtime applications ⏱️.
