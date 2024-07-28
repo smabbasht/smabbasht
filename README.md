@@ -9,7 +9,7 @@ I am a Computer Science graduate from Habib University 🎓, interested in data 
 <!-- <img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
 <!-- <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" /> -->
 <img align="left" alt="Rust" width="30px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" />
-<img align="left" alt="Golag" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go_512x512.png" />
+<img align="left" alt="Golag" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go_512x512.png" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" />
 </div>
 <br />
